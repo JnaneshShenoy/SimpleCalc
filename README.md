@@ -1,5 +1,5 @@
-#Simple Calculator
+# Simple Calculator
 
-Android Studio version : android-studio-2023.1.1.27-windows
+Android Studio version: android-studio-2023.1.1.27-windows
 
-My first android app!!
+My first Android app!!
